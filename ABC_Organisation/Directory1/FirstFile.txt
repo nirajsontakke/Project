@@ -1,1 +1,3 @@
 This is my first file created in Directory1
+
+The changes made in Branch which will not going to effect master branch
